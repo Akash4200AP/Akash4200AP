@@ -10,11 +10,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Akash4200AP&color=blue)
 
-### 📄 Download My Resume
-
-[Click here to download my resume](https://github.com/akashpattil/akashpattil/raw/main/Akash_Pattil_Resume.pdf)
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
