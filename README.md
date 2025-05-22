@@ -6,6 +6,10 @@
 - Proven track record in **payment gateway workflows** — UPI, cards, net banking.
 - Passionate about precision, efficiency, and empowering teams through quality.
 
+- ### 📄 Download My Resume
+
+[Click here to download my resume](https://github.com/Akash4200AP/PersonalDoc/raw/main/AkashPattil_ExpQA_Resume_2025.pdf)
+
 ## 📊 GitHub Stats
 
 <p align="center">
