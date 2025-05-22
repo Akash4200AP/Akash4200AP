@@ -6,7 +6,7 @@
 - Proven track record in **payment gateway workflows** — UPI, cards, net banking.
 - Passionate about precision, efficiency, and empowering teams through quality.
 
-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akashpattil&show_icons=true&theme=vue" alt="GitHub Stats" />
 </p>
 
