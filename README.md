@@ -7,7 +7,7 @@
 - Passionate about precision, efficiency, and empowering teams through quality.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashpattil&show_icons=true&theme=vue" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akash4200AP&show_icons=true&theme=vue" alt="GitHub Stats" />
 </p>
 
 📫 Reach me: [akashpattiloffi@gmail.com](mailto:akashpattiloffi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/akashpattil)
