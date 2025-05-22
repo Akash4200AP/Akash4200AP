@@ -2,7 +2,7 @@
 
 **Quality-driven QA Engineer** with 3.5 years in **payments & e-commerce**, turning complex systems into reliable products.
 
-- Expert in **manual,API testing & Database Testing**, with growing automation skills (Java + Selenium).
+- Expert in **manual,API Testing & Database Testing**, with growing automation skills (Java + Selenium).
 - Proven track record in **payment gateway workflows** — UPI, cards, net banking.
 - Passionate about precision, efficiency, and empowering teams through quality.
 
