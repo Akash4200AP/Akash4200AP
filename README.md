@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Akash Pattil 👋
 
-<!--
-**Akash4200AP/Akash4200AP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Quality-driven QA Engineer** with 3.5 years in **payments & e-commerce**, turning complex systems into reliable products.
 
-Here are some ideas to get you started:
+- Expert in **manual & API testing**, with growing automation skills (Java + Selenium).
+- Proven track record in **payment gateway workflows** — UPI, cards, net banking.
+- Passionate about precision, efficiency, and empowering teams through quality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akashpattil&show_icons=true&theme=vue" alt="GitHub Stats" />
+</p>
+
+📫 Reach me: [akashpattiloffi@gmail.com](mailto:akashpattiloffi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/akashpattil)
