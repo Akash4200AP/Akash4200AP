@@ -6,6 +6,12 @@
 - Proven track record in **payment gateway workflows** — UPI, cards, net banking.
 - Passionate about precision, efficiency, and empowering teams through quality.
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="50" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akash4200AP&show_icons=true&theme=vue" alt="GitHub Stats" />
 </p>
