@@ -22,4 +22,7 @@
   <img src="https://profile-counter.glitch.me/akashpattil/count.svg" alt="Profile Visitor Count" />
 </p>
 
-📫 Reach me: [akashpattiloffi@gmail.com](mailto:akashpattiloffi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/akashpattil)
+### 📫 Contact Me
+- Email: akashpattiloffi@gmail.com
+- LinkedIn: [linkedin.com/in/akashpattil](https://www.linkedin.com/in/akashpattil)
+
