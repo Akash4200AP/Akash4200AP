@@ -10,4 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Akash4200AP&show_icons=true&theme=vue" alt="GitHub Stats" />
 </p>
 
+![Visitor Count](https://profile-counter.glitch.me/akashpattil/count.svg)
+
 📫 Reach me: [akashpattiloffi@gmail.com](mailto:akashpattiloffi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/akashpattil)
