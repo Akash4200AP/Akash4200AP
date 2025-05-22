@@ -6,10 +6,6 @@
 - Proven track record in **payment gateway workflows** — UPI, cards, net banking.
 - Passionate about precision, efficiency, and empowering teams through quality.
 
-  ### 👁️ Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=Akash4200AP&color=blue)
-
 ## 📊 GitHub Stats
 
 <p align="center">
