@@ -1,6 +1,6 @@
 # Hi, I'm Akash Pattil 👋
 
-**Quality-driven QA Engineer** with 3.5 years in **payments & e-commerce**, turning complex systems into reliable products.
+**Quality-driven QA Engineer** with 3.5 years of experience in **payments & e-commerce**, turning complex systems into reliable products.
 
 - Experienced in **Manual,API Testing & Database Testing**, with growing automation skills (Java + Selenium).
 - Proven track record in **payment gateway workflows** — UPI, cards, net banking.
