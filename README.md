@@ -26,3 +26,6 @@
 - Email: akashpattiloffi@gmail.com
 - LinkedIn: [linkedin.com/in/akashpattil](https://www.linkedin.com/in/akashpattil)
 
+“The moment you assume software is done, you guarantee you will miss critical problems.”  
+— Michael Bolton
+
