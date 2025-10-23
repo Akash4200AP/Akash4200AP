@@ -9,22 +9,6 @@
 ### 💼 Akash Pattil — QA Engineer  
 📄 [![View My Resume](https://img.shields.io/badge/View%20My%20Resume-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/Akash4200AP/PersonalDoc/blob/master/AkashPattil_QAEngineer_Resume_2025.pdf)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="50" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akash4200AP&show_icons=true&theme=vue" alt="GitHub Stats" />
-</p>
-
-## 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/akashpattil/count.svg" alt="Profile Visitor Count" />
-</p>
-
 ### 📫 Contact Me
 - Email: akashpattiloffi@gmail.com
 - LinkedIn: [linkedin.com/in/akashpattil](https://www.linkedin.com/in/akashpattil)
