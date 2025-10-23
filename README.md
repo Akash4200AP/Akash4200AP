@@ -1,13 +1,19 @@
-# Hi, I'm Akash Pattil 👋
+👋 Hi, I'm Akash Pattil
 
-**Quality-driven QA Engineer** with 3.8 years of experience in **payments & e-commerce**, turning complex systems into reliable products.
+🚀 Quality-Driven QA Engineer | Turning complex payment systems into seamless, reliable user experiences
+*****************************************************************************************************************
+💼 3.8+ years of experience in Manual, API, and Database Testing across Payments 💳 and E-commerce 🛒 domains
 
-3.8 years of experience in Manual, API, and DB Testing across Payments and E-commerce domains, including UPI, Net Banking, Card Payments, Outward Remittance, Business Payments, and WMS modules.
-
-Skilled in Functional, Regression, Integration, UAT, API testing (Postman), and Database testing (MySQL), with defect tracking in JIRA and Agile participation.
-
-Hands-on with Selenium WebDriver, TestNG, BDD Cucumber, Git/GitHub, and acted as SPOC for product demos and stakeholder interactions.
-![QA Engineer Banner](https://your-image-link.com/banner.gif)
+💡 About Me:
+🔍 Hands-on experience testing UPI, Net Banking, Card Payments, Outward Remittance, Business Payments, and WMS modules
+🧪 Skilled in Functional, Regression, Integration, and UAT testing
+⚙️ Experienced with API testing (Postman) and Database testing (MySQL)
+🐞 Proficient in JIRA for defect tracking and Agile ceremonies participation
+💻 Familiar with Selenium WebDriver, TestNG, BDD Cucumber, Git/GitHub
+🤝 Served as SPOC for product demos and stakeholder collaboration
+******************************************************************************************************************
+🧰 Tech Stack
+Manual Testing · API Testing · MySQL · Postman · JIRA · Agile · Selenium · TestNG · BDD Cucumber · Git/GitHub 
 
 ### 📫 Contact Me
 - Email: akashpattiloffi@gmail.com
