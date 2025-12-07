@@ -11,8 +11,7 @@
 💻 Familiar with Selenium WebDriver, TestNG, BDD Cucumber, Git/GitHub
 🤝 Served as SPOC for product demos and stakeholder collaboration
 
-🧰 Tech Stack
-Manual Testing · API Testing · MySQL · Postman · JIRA · Agile · Selenium · TestNG · BDD Cucumber · Git/GitHub 
+🧰 Tech Stack - Manual Testing · API Testing · MySQL · Postman · JIRA · Agile · Selenium · TestNG · BDD Cucumber · Git/GitHub 
 
 ### 📫 Contact Me
 - Email: akashpattiloffi@gmail.com
