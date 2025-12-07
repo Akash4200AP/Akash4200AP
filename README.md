@@ -1,4 +1,4 @@
-👋 Hi, I'm Akash Pattil
+👋 Hi, I'm Akash Patil
 
 🚀 A technical enthusiast with 6+ years of experience in Payments, E-Commerce, and Telecom domains,aiming to attain a challenging position in Quality Engineering
 
