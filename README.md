@@ -4,7 +4,7 @@
 
 💡 About Me:
 
-🔍 Hands-on experience testing UPI, Net Banking, Card Payments, Outward Remittance, Business Payments, and WMS modules
+🔍 Hands-on experience testing UPI, Net Banking, Card Payments, Outward Remittance, Business Payments,WMS modules and VOIP Systems.
 🧪 Skilled in Functional, Regression, Integration, and UAT testing
 ⚙️ Experienced with API testing (Postman) and Database testing (MySQL)
 🐞 Proficient in JIRA for defect tracking and Agile ceremonies participation
