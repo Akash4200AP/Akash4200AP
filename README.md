@@ -1,6 +1,6 @@
 👋 Hi, I'm Akash Pattil
 
-🚀 Quality-Driven QA Engineer with 6+ years of experience in Manual, API, and Database Testing across Payments 💳 and E-commerce 🛒 domains.
+🚀 Quality-Driven QA Professional with 6+ years of experience in Manual, API, and Database Testing across Payments, E-commerce and Telecom domains.
 
 💡 About Me:
 
