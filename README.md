@@ -15,7 +15,7 @@
 
 ### 📫 Contact Me
 - Email: akashpattiloffi@gmail.com
-- LinkedIn: [linkedin.com/in/akashpattil](https://www.linkedin.com/in/akashpattil)
+- LinkedIn: https://www.linkedin.com/in/akashpatilqa/
 
 ### 💡 Testing Wisdom
 > “The moment you assume software is done, you guarantee you will miss critical problems.”  
